@@ -1,46 +1,46 @@
 export const subscriptions = [
     {
-        channelName: "Fireship",
-        id: "Fireship",
+        channelName: "Channel 1",
+        id: "Channel1",
         imgUrl:
-            "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+            "https://fastly.picsum.photos/id/964/50/50.jpg?hmac=lq5V0Jw7LcPZuNW7YIO5AZX4fjAR-2Yt9ca6E37u5Ac",
     },
     {
-        channelName: "Caleb Curry",
-        id: "CalebCurry",
+        channelName: "Channel 2",
+        id: "Channel2",
         imgUrl:
-            "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+            "https://fastly.picsum.photos/id/358/50/50.jpg?hmac=rFRhq1OYJy-go-A7HsDeOnsd8BbxsVCowcGZD6wD39w",
     },
     {
-        channelName: "Web Dev Simplified",
-        id: "WebDevSimplified",
+        channelName: "Channel 3",
+        id: "Channel3",
         imgUrl:
-            "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+            "https://fastly.picsum.photos/id/4/50/50.jpg?hmac=1mauIlxiQV-Ic_GskSx2MshjMXibeu208Fh9tQLtvzc",
     },
     {
-        channelName: "Kevin Powell",
-        id: "KevinPowell",
+        channelName: "Channel 4",
+        id: "Channel4",
         imgUrl:
-            "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+            "https://fastly.picsum.photos/id/770/50/50.jpg?hmac=-dSIVK0UPi_k9pgNlbr8kqA4JPIvEwvjgYAlFPwvPLY",
     },
     {
-        channelName: "Sonny Sangha",
-        id: "SonnySangha",
+        channelName: "Channel 5",
+        id: "Channel5",
         imgUrl:
-            "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s68-c-k-c0x00ffffff-no-rj",
+            "https://fastly.picsum.photos/id/931/50/50.jpg?hmac=oFn7nnAaHgFw0VD3ad9mrN1vgsXnpFG5xORFpPmZJF0",
     },
     {
-        channelName: "Traversy Media",
-        id: "TraversyMedia",
+        channelName: "Channel 6",
+        id: "Channel6",
         imgUrl:
-            "https://yt3.googleusercontent.com/ytc/APkrFKYcYswt_UhD7D0j6ddiQz6Gb8Q_vSJOjhYI0CoXSw=s176-c-k-c0x00ffffff-no-rj-mo",
+            "https://fastly.picsum.photos/id/538/50/50.jpg?hmac=sPAMwt2zthd_46PBULCF3PDEGrC5kSU1p640ILLm4mY",
     },
 ]
 
 export const playlists = [
-    { id: "1", name: "Frontend & Backend" },
-    { id: "2", name: "Favorites" },
-    { id: "3", name: "React" },
-    { id: "4", name: "Non-Dev" },
-    { id: "5", name: "TypeScript" },
+    { id: "1", name: "Playlist 1" },
+    { id: "2", name: "Playlist 2" },
+    { id: "3", name: "Playlist 3" },
+    { id: "4", name: "Playlist 4" },
+    { id: "5", name: "Playlist 5" },
 ]
